@@ -34,8 +34,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-  <a href="https://github.com/ShreyashR96/ShreyashR96/blob/main/WhatsApp%20Image%202024-01-05%20at%205.19.12%20PM.jpeg" target="_blank">
-    <img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/WhatsApp_Image_2024-01-06_at_3.09.18_PM-removebg-preview.png" alt="Buy Me a Tea" width="300" height="80">
-  </a>
 </p>
