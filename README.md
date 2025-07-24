@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" />
-</p>
+
 
 <h1 align="center">Hey there! 👋 I'm Shreyash Rakhunde</h1>
 <h3 align="center">Aspiring Cybersecurity Professional | Networking Enthusiast | Tech Explorer 🚀</h3>
