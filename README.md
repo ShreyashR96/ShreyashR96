@@ -1,59 +1,70 @@
+<!--
+Hi Shreyash! I've updated your README to use a local banner image.
+
+How to use your banner:
+
+Create a folder named 'assets' (or any name you prefer) in your repository.
+
+Place your downloaded banner image inside that folder.
+
+Update the path in the &lt;img&gt; tag below (e.g., src="./assets/your-banner-name.png").
+-->
+
+<!-- Header Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=binary&color=auto&height=280&section=header&text=Shreyash%20Rakhunde&fontSize=70&fontColor=c792ea&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%26%20Tech%20Explorer&descAlignY=51&descAlign=62" alt="Header Banner"/>
+<!-- IMPORTANT: Replace this path with the path to your downloaded banner image -->
+<img src="./banner.png" alt="Header Banner"/>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sillysalamander.com%2Fget-date&query=%24.dateIST&label=Last%20Updated&color=informational&style=for-the-badge&logo=calendar&logoColor=white" alt="Last Updated Date"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/dynamic/json%3Furl%3Dhttps%253A%252F%252Fapi.sillysalamander.com%252Fget-date%26query%3D%2524.dateIST%26label%3DLast%2520Updated%26color%3Dinformational%26style%3Dfor-the-badge%26logo%3Dcalendar%26logoColor%3Dwhite" alt="Last Updated Date"/>
 </div>
 
----
-
-### Hi there, I'm Shreyash 👋
-
+Hi there, I'm Shreyash 👋
 I'm a passionate developer and aspiring cybersecurity professional based in Kolhapur, Maharashtra. I'm driven by the challenge of solving complex problems and building secure, efficient systems. Below is a snapshot of my activity and skills.
 
----
-
-### 📊 My GitHub Metrics & Coding Activity
-
+📊 My GitHub Metrics & Coding Activity
 This section provides a more detailed and unique look at my GitHub contributions and coding habits.
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ShreyashR96?template=classic&config_timezone=Asia%2FKolkata&theme=tokyo_night&plugins=isocalendar,habits,languages,notable&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&habits.from=1000" alt="GitHub Metrics" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyashR96&theme=tokyo_night&layout=compact" alt="WakaTime Stats" />
+<!-- GitHub Metrics -->
+<img src="https://www.google.com/search?q=https://metrics.lecoq.io/ShreyashR96%3Ftemplate%3Dclassic%26config_timezone%3DAsia%252FKolkata%26theme%3Dtokyo_night%26plugins%3Disocalendar,habits,languages,notable%26isocalendar.duration%3Dfull-year%26languages.limit%3D8%26languages.threshold%3D0%2525%26habits.from%3D1000" alt="GitHub Metrics" />
+
+<!-- WakaTime Stats -->
+
+<!--
+IMPORTANT: To enable WakaTime, you need a free account at https://wakatime.com.
+Then, add your WakaTime API Key and your GitHub username to this GitHub Action:
+https://www.google.com/search?q=https://github.com/marketplace/actions/wakatime-readme-stats
+It will generate stats like the one below.
+-->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26layout%3Dcompact" alt="WakaTime Stats" />
 </p>
 
----
-
-### 🛠️ My Tech Stack
-
+🛠️ My Tech Stack
 These are some of the key technologies and tools I work with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,wireshark,git,github,docker,vscode,html,css&perline=6&theme=dark" alt="Tech Skills"/>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,bash,linux,kali,wireshark,git,github,docker,vscode,html,css%26perline%3D6%26theme%3Ddark" alt="Tech Skills"/>
 </p>
 
----
-
-### 🤝 Let's Connect
-
+🤝 Let's Connect
 Feel free to reach out for collaborations or just a friendly chat!
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyashrakhunde96" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@shreyashrakhunde96" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:hello@shreyashrakhunde.me">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://linkedin.com/in/shreyashrakhunde96" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@shreyashrakhunde96" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium"/>
+</a>
+<a href="mailto:hello@shreyashrakhunde.me">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyashR96&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DShreyashR96%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile Views"/>
 </p>
