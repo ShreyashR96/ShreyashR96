@@ -1,66 +1,28 @@
-<!--
-Hi Shreyash! Here is a more beautiful and attractive version of your README.
-
-What's New:
-
-Banner Placeholder: A spot at the top for you to easily add your banner image.
-
-Cleaner Structure: Better headings and dividers for a professional, organized look.
-
-Consolidated Tech Stack: Your skills are now presented in a single, clean image using skillicons.dev.
-
-Consistent Theme: All stats and trophies now use the 'tokyo_night' theme for a cohesive and modern aesthetic.
-
-Activity Graph: Added a dynamic graph to visualize your GitHub activity over the last 31 days.
--->
-
-<!-- Banner -->
-
 <p align="center">
-<!-- IMPORTANT: Replace this path with the path to your banner image -->
 <img src="./srbanner.gif" alt="Profile Banner"/>
 </p>
 
-<!-- About Me -->
-
 <div align="center">
 <h1>Hi there, I'm Shreyash 👋</h1>
-<p>
-🔐 Cybersecurity Enthusiast | 🚀 Exploring AI, Automation & Ethical Hacking
 <br />
-🛠️ Breaking bugs, building dreams | 📚 Always curious, forever learning
-</p>
-</div>
+# 💫 About Me:
+🔐 Cybersecurity<br>🚀 Exploring AI, automation & ethical hacking<br>🤝 Let’s team up for something impactful<br>🛠️ Breaking bugs, building dreams<br>📚 Always curious, forever learning
 
-🤝 Let's Connect
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.instagram.com/shreyash.rakhunde/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/shreyashrakhunde96/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:shreyashrakhunde96@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</p>
 
-💻 Tech Stack
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,python,firebase,mongodb,github,postman,gcp,vercel,arduino,canva%26perline%3D5" alt="Tech Stack"/>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash.rakhunde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashrakhunde96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashrakhunde96@gmail.com) 
 
-📊 GitHub Stats & Activity
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26hide_border%3Dtrue%26layout%3Dcompact" alt="Top Languages" />
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DShreyashR96%26theme%3Dtokyo_night%26hide_border%3Dtrue" alt="GitHub Streak" />
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26hide_border%3Dtrue%26color%3Dc792ea%26line%3Dc792ea%26point%3Dc792ea%26area%3Dtrue" alt="GitHub Activity Graph" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShreyashR96&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShreyashR96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashR96&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-🏆 GitHub Trophies
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShreyashR96&icon=3&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
