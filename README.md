@@ -2,10 +2,7 @@
 <img src="./srbanner.gif" alt="Profile Banner"/>
 </p>
 
-
-
-<br/>
-## About Me: <br>
+## About Me:
 🔐 Cybersecurity<br>🚀 Exploring AI, automation & ethical hacking<br>🤝 Let’s team up for something impactful<br>🛠️ Breaking bugs, building dreams<br>📚 Always curious, forever learning
 
 ## 🌐 Socials:
