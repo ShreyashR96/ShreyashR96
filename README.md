@@ -1,5 +1,5 @@
 <!--
-Hi Shreyash! I've updated your README to use a local banner image.
+Hi Shreyash! I've fixed the image links in your README so the stats will now display correctly.
 
 How to use your banner:
 
