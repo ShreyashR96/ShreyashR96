@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-<br />
-  ## 💫 About Me: <br>
+<br/>
+  ## 🌐 Socials:
+## About Me: <br>
 🔐 Cybersecurity<br>🚀 Exploring AI, automation & ethical hacking<br>🤝 Let’s team up for something impactful<br>🛠️ Breaking bugs, building dreams<br>📚 Always curious, forever learning
 
 ## 🌐 Socials:
