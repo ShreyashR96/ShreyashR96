@@ -2,12 +2,10 @@
 <img src="./srbanner.gif" alt="Profile Banner"/>
 </p>
 
-<div align="left">
+<div align="center">
 <br />
 ##💫 About Me:
 🔐 Cybersecurity<br>🚀 Exploring AI, automation & ethical hacking<br>🤝 Let’s team up for something impactful<br>🛠️ Breaking bugs, building dreams<br>📚 Always curious, forever learning
-</div>
-<div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash.rakhunde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashrakhunde96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashrakhunde96@gmail.com) 
@@ -21,8 +19,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ShreyashR96&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
