@@ -1,70 +1,21 @@
-<!--
-Hi Shreyash! I've fixed the image links in your README so the stats will now display correctly.
+# 💫 About Me:
+🔐 Cybersecurity<br>🚀 Exploring AI, automation & ethical hacking<br>🤝 Let’s team up for something impactful<br>🛠️ Breaking bugs, building dreams<br>📚 Always curious, forever learning
 
-How to use your banner:
 
-Create a folder named 'assets' (or any name you prefer) in your repository.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash.rakhunde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashrakhunde96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashrakhunde96@gmail.com) 
 
-Place your downloaded banner image inside that folder.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShreyashR96&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShreyashR96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashR96&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-Update the path in the &lt;img&gt; tag below (e.g., src="./assets/your-banner-name.png").
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Header Banner -->
+---
+[![](https://visitcount.itsvg.in/api?id=ShreyashR96&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-<!-- IMPORTANT: Replace this path with the path to your downloaded banner image -->
-<img src="./banner.png" alt="Header Banner"/>
-</p>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/dynamic/json%3Furl%3Dhttps%253A%252F%252Fapi.sillysalamander.com%252Fget-date%26query%3D%2524.dateIST%26label%3DLast%2520Updated%26color%3Dinformational%26style%3Dfor-the-badge%26logo%3Dcalendar%26logoColor%3Dwhite" alt="Last Updated Date"/>
-</div>
-
-Hi there, I'm Shreyash 👋
-I'm a passionate developer and aspiring cybersecurity professional based in Kolhapur, Maharashtra. I'm driven by the challenge of solving complex problems and building secure, efficient systems. Below is a snapshot of my activity and skills.
-
-📊 My GitHub Metrics & Coding Activity
-This section provides a more detailed and unique look at my GitHub contributions and coding habits.
-
-<p align="center">
-<!-- GitHub Metrics -->
-<img src="https://www.google.com/search?q=https://metrics.lecoq.io/ShreyashR96%3Ftemplate%3Dclassic%26config_timezone%3DAsia%252FKolkata%26theme%3Dtokyo_night%26plugins%3Disocalendar,habits,languages,notable%26isocalendar.duration%3Dfull-year%26languages.limit%3D8%26languages.threshold%3D0%2525%26habits.from%3D1000" alt="GitHub Metrics" />
-
-<!-- WakaTime Stats -->
-
-<!--
-IMPORTANT: To enable WakaTime, you need a free account at https://wakatime.com.
-Then, add your WakaTime API Key and your GitHub username to this GitHub Action:
-https://www.google.com/search?q=https://github.com/marketplace/actions/wakatime-readme-stats
-It will generate stats like the one below.
--->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3DShreyashR96%26theme%3Dtokyo_night%26layout%3Dcompact" alt="WakaTime Stats" />
-</p>
-
-🛠️ My Tech Stack
-These are some of the key technologies and tools I work with:
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,bash,linux,kali,wireshark,git,github,docker,vscode,html,css%26perline%3D6%26theme%3Ddark" alt="Tech Skills"/>
-</p>
-
-🤝 Let's Connect
-Feel free to reach out for collaborations or just a friendly chat!
-
-<p align="center">
-<a href="https://linkedin.com/in/shreyashrakhunde96" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@shreyashrakhunde96" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium"/>
-</a>
-<a href="mailto:hello@shreyashrakhunde.me">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DShreyashR96%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile Views"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
