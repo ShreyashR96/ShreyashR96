@@ -2,8 +2,6 @@
   <img src="./srbanner.gif" alt="Profile Banner"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5d4&height=140&section=header&text=Shreyash%20Rakhunde&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Breaking%20bugs%20%7C%20Building%20dreams&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Header"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+Cybersecurity+Enthusiast;%3E+exploring+AI+%26+Automation;%3E+practicing+Ethical+Hacking;%3E+always+curious%2C+forever+learning;%3E+let's+team+up+for+something+impactful)](https://git.io/typing-svg)
